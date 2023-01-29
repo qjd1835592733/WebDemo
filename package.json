@@ -1,0 +1,23 @@
+{
+  "name": "webdemo",
+  "version": "1.0.0",
+  "description": "first demo",
+  "main": "demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qjd1835592733/WebDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qjd1835592733/WebDemo/issues"
+  },
+  "homepage": "https://github.com/qjd1835592733/WebDemo#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}
